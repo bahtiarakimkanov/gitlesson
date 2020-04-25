@@ -12,4 +12,6 @@ html,body{
 .header{
     background: #ccc;
 }
-
+.nav__list{
+    background: #ccc;
+}
