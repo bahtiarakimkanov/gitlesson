@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 html,body{
     margin: 0;
     padding: 0;
@@ -16,5 +14,7 @@ html,body{
 .nav__list{
     background: #ccc;
 }
-=======
->>>>>>> nav
+.nav__item{
+    display: inline;
+    margin-inline-start: ;
+}
