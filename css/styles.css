@@ -1,2 +1,10 @@
-html,body
-m
+html,body{
+    margin: 0;
+    padding: 0;
+
+}
+.wrapper{
+    position: relative;
+    min-height: 100vh ;
+    overflow: hidden;
+}
